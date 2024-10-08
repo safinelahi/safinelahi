@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Safin Elahi</h1>
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
-
+<br>
+<br>
+<br>
 <div align="center">
   <table style="border: 0; border-collapse: collapse;">
     <tr>

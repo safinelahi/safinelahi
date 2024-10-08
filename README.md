@@ -4,12 +4,12 @@
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: 0; border-collapse: collapse;">
     <tr>
-      <td style="border: none;">
+      <td style="border: 0; padding-right: 20px;">
         <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding" width="400"/>
       </td>
-      <td style="border: none;">
+      <td style="border: 0;">
         <ul>
           <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
           <li>💬 Ask me about <strong>JavaScript, tailwindcss</strong></li>

@@ -3,20 +3,22 @@
 <h1 align="center">Hi 👋, I'm Safin Elahi</h1>
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding" width="400"/>
-    </td>
-    <td>
-      <ul>
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
-        <li>💬 Ask me about <strong>JavaScript, tailwindcss</strong></li>
-        <li>📫 How to reach me <strong>safinelahi@gmail.com</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding" width="400"/>
+      </td>
+      <td style="border: none;">
+        <ul>
+          <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+          <li>💬 Ask me about <strong>JavaScript, tailwindcss</strong></li>
+          <li>📫 How to reach me <strong>safinelahi@gmail.com</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

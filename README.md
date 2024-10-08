@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Safin Elahi</h1>
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
-    <ul style="list-style: none;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="max-width: 100%; height: auto;"/>
+    <ul style="list-style: none; padding-left: 20px;">
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
         <li>💬 Ask me about <strong>JavaScript, tailwindcss</strong></li>
         <li>📫 How to reach me <strong>safinelahi@gmail.com</strong></li>

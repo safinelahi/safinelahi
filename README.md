@@ -4,13 +4,9 @@
 
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Always+Learning!" alt="Typing SVG">
 </div>
-
----
 
 <br>
 
@@ -32,8 +28,6 @@
   </table>
 </div>
 
----
-
 <h3 align="center">🔗 Connect with me:</h3>
 
 <p align="center">
@@ -42,8 +36,6 @@
   <a href="https://stackoverflow.com/users/safin elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="safin elahi" height="40" width="40" /></a>
   <a href="https://instagram.com/safin_elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safin_elahi" height="40" width="40" /></a>
 </p>
-
----
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
@@ -55,16 +47,12 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 </p>
 
----
-
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safinelahi&show_icons=true&locale=en&layout=compact" alt="safinelahi" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&locale=en" alt="safinelahi" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi&" alt="safinelahi" /></p>
 </div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" />

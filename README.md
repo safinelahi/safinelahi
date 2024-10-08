@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
 <h1 align="center">Hi 👋, I'm Safin Ealhi</h1>
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
+<img aline = "right" alt="Coding" width ="400" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safinelahi" alt="safinelahi" /></a> </p>
 

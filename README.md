@@ -32,7 +32,7 @@
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/safinelahi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/safinelahi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/safinelahi" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
   <a href="https://stackoverflow.com/users/safinelahi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" /></a>
   <a href="https://instagram.com/safin_elahi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
 </p>

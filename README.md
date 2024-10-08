@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
 <h1 align="center">Hi 👋, I'm Safin Ealhi</h1>
-<h3 align="center">A passionate frontend deve"Innovating with Code: Crafting Solutions, Learning Continuously, and Sharing Knowledge" This reflects an enthusiasm for problem-solving and collaboration, which aligns well with the spirit of open-source contributions. If you'd like something more specific or tailored to your expertise, feel free to share more details!loper from India</h3>
+<h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safinelahi" alt="safinelahi" /></a> </p>
 

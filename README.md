@@ -1,12 +1,16 @@
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed)
+![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
 
 <h1 align="center">Hi 👋, I'm Safin Elahi</h1>
 
 <h3 align="center">A passionate Full Stack Software Web Developer</h3>
 
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Always+Learning!" alt="Typing SVG">
 </div>
+
+---
 
 <br>
 
@@ -28,6 +32,8 @@
   </table>
 </div>
 
+---
+
 <h3 align="center">🔗 Connect with me:</h3>
 
 <p align="center">
@@ -36,6 +42,8 @@
   <a href="https://stackoverflow.com/users/safin elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="safin elahi" height="40" width="40" /></a>
   <a href="https://instagram.com/safin_elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safin_elahi" height="40" width="40" /></a>
 </p>
+
+---
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 
@@ -48,7 +56,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif" width="100"> <!-- HTML -->
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100"> <!-- Figma -->
 </div>
-<br><br>
+
+---
 
 <div align="center">
   <h3>📊 GitHub Stats:</h3>
@@ -56,6 +65,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&locale=en" alt="safinelahi" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi&" alt="safinelahi" /></p>
 </div>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" />

@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280)
 <h3 align="center">A passionate frontend deve"Innovating with Code: Crafting Solutions, Learning Continuously, and Sharing Knowledge" This reflects an enthusiasm for problem-solving and collaboration, which aligns well with the spirit of open-source contributions. If you'd like something more specific or tailored to your expertise, feel free to share more details!loper from India</h3>
-<img aline = "left" alt="Coding" width ="400" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img aline = "left" alt="Coding" width ="" src= "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 - 🌱 I’m currently learning **MERN Stack**
 

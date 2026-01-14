@@ -1,162 +1,102 @@
-<!-- ===================================================== -->
-<!-- SAFIN ELAHI — FUTURISTIC ENGINEERING DASHBOARD README -->
-<!-- ===================================================== -->
+![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed)
+
+<h1 align="center">Hi 👋, I'm Safin Elahi</h1>
+<h3 align="center">A passionate Full Stack Software Web Developer</h3>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Always+Learning!"
+    alt="Typing SVG"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding-right: 20px;">
+        <img
+          src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
+          alt="Coding"
+          width="350"
+        />
+      </td>
+      <td>
+        <h3>About Me:</h3>
+        <ul>
+          <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
+          <li>💬 Ask me about <strong>JavaScript, TailwindCSS</strong></li>
+          <li>📫 How to reach me: <strong>safinelahi@gmail.com</strong></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h3 align="center">🔗 Connect with me:</h3>
 
 <p align="center">
-
-<svg width="100%" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f1a"/>
-      <stop offset="100%" stop-color="#14182b"/>
-    </linearGradient>
-
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7CF7FF"/>
-      <stop offset="100%" stop-color="#8A2BE2"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Dashboard Frame -->
-  <rect x="20" y="20" rx="20" ry="20"
-        width="1160" height="380"
-        fill="url(#bgGrad)"
-        stroke="#7CF7FF"
-        stroke-opacity="0.4"
-        stroke-width="2"/>
-
-  <!-- Title -->
-  <text x="600" y="60"
-        text-anchor="middle"
-        font-size="26"
-        fill="url(#neon)"
-        filter="url(#glow)"
-        font-family="Arial">
-    Professional Engineering Analytics
-  </text>
-
-  <!-- ================= ENERGY GRID ================= -->
-  <g transform="translate(120 120)">
-    <text x="120" y="-20" text-anchor="middle"
-          fill="#9efcff" font-size="14">
-      Contribution Energy Grid
-    </text>
-
-    <g>
-      <rect x="0" y="0" width="30" height="30" fill="#1e293b">
-        <animate attributeName="fill"
-                 values="#1e293b;#7CF7FF;#1e293b"
-                 dur="2s" repeatCount="indefinite"/>
-      </rect>
-
-      <rect x="40" y="0" width="30" height="30" fill="#1e293b">
-        <animate attributeName="fill"
-                 values="#1e293b;#8A2BE2;#1e293b"
-                 dur="2.5s" repeatCount="indefinite"/>
-      </rect>
-
-      <rect x="80" y="0" width="30" height="30" fill="#1e293b">
-        <animate attributeName="fill"
-                 values="#1e293b;#7CF7FF;#1e293b"
-                 dur="3s" repeatCount="indefinite"/>
-      </rect>
-
-      <rect x="0" y="40" width="30" height="30" fill="#1e293b">
-        <animate attributeName="fill"
-                 values="#1e293b;#8A2BE2;#1e293b"
-                 dur="2.2s" repeatCount="indefinite"/>
-      </rect>
-
-      <rect x="40" y="40" width="30" height="30" fill="#1e293b">
-        <animate attributeName="fill"
-                 values="#1e293b;#7CF7FF;#1e293b"
-                 dur="2.8s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </g>
-
-  <!-- ================= RADAR CHART ================= -->
-  <g transform="translate(600 190)">
-    <text x="0" y="-120" text-anchor="middle"
-          fill="#9efcff" font-size="14">
-      Language Dominance Radar
-    </text>
-
-    <polygon points="0,-80 70,40 -70,40"
-             fill="none"
-             stroke="#7CF7FF"
-             stroke-width="2">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0"
-        to="360"
-        dur="20s"
-        repeatCount="indefinite"/>
-    </polygon>
-
-    <circle r="4" cx="0" cy="-80" fill="#7CF7FF"/>
-    <circle r="4" cx="70" cy="40" fill="#8A2BE2"/>
-    <circle r="4" cx="-70" cy="40" fill="#00E5FF"/>
-  </g>
-
-  <!-- ================= METRICS ================= -->
-  <g transform="translate(900 140)">
-    <text x="0" y="-20" fill="#9efcff" font-size="14">
-      Career Metrics
-    </text>
-
-    <text x="0" y="20" fill="#7CF7FF" font-size="20">
-      5+ Years Exp
-      <animate attributeName="opacity"
-               values="0.4;1;0.4"
-               dur="2s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="0" y="60" fill="#8A2BE2" font-size="20">
-      1200+ Commits
-      <animate attributeName="opacity"
-               values="0.4;1;0.4"
-               dur="2.4s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="0" y="100" fill="#00E5FF" font-size="20">
-      50+ Projects
-      <animate attributeName="opacity"
-               values="0.4;1;0.4"
-               dur="2.8s" repeatCount="indefinite"/>
-    </text>
-  </g>
-
-</svg>
-
+  <a href="https://dev.to/safinelahi" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+      width="80"
+    />
+  </a>
+  <a href="https://linkedin.com/in/safinelahi" target="_blank">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+      width="100"
+    />
+  </a>
+  <a href="https://stackoverflow.com/users/safinelahi" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      width="80"
+    />
+  </a>
+  <a href="https://instagram.com/safin_elahi" target="_blank">
+    <img
+      src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"
+      width="100"
+    />
+  </a>
 </p>
 
 ---
 
-## 🌐 Global Connect Hub
+<h3 align="center">🛠️ Languages and Tools:</h3>
 
-<p align="center">
-  <a href="mailto:safinelahi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-safinelahi@gmail.com-7CF7FF?style=for-the-badge&labelColor=0b0f1a"/>
-  </a>
-  <a href="https://linkedin.com/in/safinelahi">
-    <img src="https://img.shields.io/badge/LinkedIn-safinelahi-8A2BE2?style=for-the-badge&labelColor=0b0f1a"/>
-  </a>
-  <a href="https://instagram.com/safin_elahi">
-    <img src="https://img.shields.io/badge/Instagram-safin_elahi-00E5FF?style=for-the-badge&labelColor=0b0f1a"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
+</div>
 
-<p align="center">
-<strong>Open for High-Impact Technical Collaborations</strong>
-</p>
+---
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safinelahi&show_icons=true&locale=en&layout=compact"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&locale=en"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <h4>Thanks for stopping by! 😊</h4>
+</div>

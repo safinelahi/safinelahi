@@ -1,86 +1,93 @@
+<!-- 
+  ╔════════════════════════════════════════════════════════════════════════════╗
+  ║                  SAFIN ELAHI - SENIOR FULL STACK ENGINEER                 ║
+  ╚════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Safin%20Elahi&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20React%20%26%20Python&descAlignY=65&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=280&section=header&text=Safin%20Elahi&fontSize=80&fontColor=00f0ff&fontAlignY=35&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20Architecting%20Digital%20Experiences&descAlignY=60&descSize=22&descColor=8b5cf6" alt="header" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://github.com/safinelahi/safinelahi/blob/main/assets/3d-avatar-glow-cyan.png?raw=true" width="220" alt="avatar"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Energy%20Field-Active-00f0ff?style=for-the-badge&logo=sparkles&logoColor=00f0ff&color=0d1117" alt="energy"/>
+      </td>
+      <td width="20"></td>
+      <td>
+        <div style="background: rgba(15,23,42,0.45); backdrop-filter: blur(12px); border: 1px solid rgba(59,130,246,0.18); border-radius: 16px; padding: 28px; color: #e2e8f0; font-family: 'Segoe UI', system-ui;">
+          <h2 style="margin:0; color:#00f0ff; font-size:2.1em; letter-spacing:1px;">Safin Elahi</h2>
+          <p style="margin:8px 0 20px; color:#a5b4fc; font-size:1.25em; font-weight:500;">
+            Senior Full Stack Engineer<br/>Architecting Digital Experiences
+          </p>
+          <p style="line-height:1.7; font-size:1.08em;">
+            Professional <strong style="color:#60a5fa">Frontend Developer</strong> crafting pixel-perfect interfaces with<br/>
+            <strong>React • Tailwind CSS • Vite</strong><br/><br/>
+            Professional <strong style="color:#f472b6">Python Backend Developer</strong> building robust, scalable,<br/>high-performance systems.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<h2 align="center">⚡️ Tech Arsenal</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,python,fastapi,postgres,docker&theme=dark&perline=7" alt="skills"/>
 </div>
 
 <div align="center">
-  <h3>👋 Hello, I'm Safin</h3>
-  <p>
-    I am a professional <b>Full Stack Developer</b> passionate about robust software architecture. <br>
-    I specialize in building pixel-perfect <b>Frontend</b> interfaces and scalable <b>Backend</b> systems.
-  </p>
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <h3>Frontend Mastery</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safinelahi&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=420&hide=jupyter%20notebook" alt="top langs"/>
+      </td>
+      <td width="60"></td>
+      <td align="center">
+        <h3>Professional Analytics</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00f0ff&stroke=8b5cf6" alt="streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
-<h2 align="center">🛠️ Technical Expertise</h2>
+<br/>
 
 <div align="center">
-
-  <p><b>Frontend Ecosystem</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </p>
-
-  <br />
-
-  <p><b>Backend & Core</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-
-  <br />
-
-  <p><b>Development Tools</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=safinelahi&theme=dracula&column=7&no-frame=true&margin-w=15&title_color=00f0ff&text_color=a5b4fc&icon_color=8b5cf6" alt="trophies"/>
 </div>
 
-<br />
-<hr/>
-<br />
+<br/><br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🌐 Global Connect Hub</h2>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Safin's Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safinelahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </p>
-</div>
-
-<br />
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/safinelahi" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/safin_elahi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
+<p align="center">
   <a href="mailto:safinelahi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/✉️_Official_Mail-safinelahi@gmail.com-00f0ff?style=for-the-badge&logo=gmail&logoColor=white&color=111827" alt="email"/>
   </a>
-</div>
+  <a href="https://linkedin.com/in/safinelahi">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/safin_elahi">
+    <img src="https://img.shields.io/badge/Instagram-Personal_Brand-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%" />
+  <img src="https://img.shields.io/badge/Open_for_High_Impact_Technical_Collaborations-00f0ff?style=for-the-badge&color=6d28d9&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi41NSA0IDEgOC41NSAxIDE0czUuNTUgMTIgMTIgMTJzMTItNS41NSAxMi0xMlMxNy40NSA0IDEyIDJ6bTAgMThjLTMuMzEgMC02LTIuNjktNi02czIuNjktNiA2LTZzNiAyLjY5IDYgNnMtMi42OSA2LTYgNnoiLz48L3N2Zz4=" alt="open for collab"/>
 </div>
+
+<!-- 
+  Last updated: January 2026 • Cyberpunk Dark Theme • Made with 💜 + ⚡ 
+-->

@@ -1,70 +1,82 @@
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed)
-
-<h1 align="center">Hi 👋, I'm Safin Elahi</h1>
-
-<h3 align="center">A passionate Full Stack Software Web Developer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Open-Source+Enthusiast;Always+Learning!" alt="Typing SVG">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Safin%20Elahi&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=55&descAlign=62" alt="Safin Elahi Banner" />
 </div>
 
-<br>
+<h1 align="center">Full Stack Software Engineer</h1>
 
-<div align="center">
-  <table style="border: 0; border-collapse: collapse; text-align: center;">
-    <tr>
-      <td style="border: 0; padding-right: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding" width="350" />
-      </td>
-      <td style="border: 0;">
-        <h3>About Me:</h3>
-        <ul>
-          <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
-          <li>💬 Ask me about <strong>JavaScript, TailwindCSS</strong></li>
-          <li>📫 How to reach me: <strong>safinelahi@gmail.com</strong></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Connect with Me -->
-<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/safinelahi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" width="80" /></a>
-   <a href="https://linkedin.com/in/safinelahi" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
-  <a href="https://stackoverflow.com/users/safinelahi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="80" /></a>
-  <a href="https://instagram.com/safin_elahi" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Specialist+(React+%2B+Tailwind);Python+Developer;Open+Source+Contributor;Crafting+Pixel-Perfect+Webs" alt="Typing SVG" />
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
+ I am a professional developer passionate about building scalable, high-performance web applications. With a deep specialization in the <b>React ecosystem</b> and modern CSS architectures, I bridge the gap between design and technical implementation. I also leverage <b>Python</b> for robust backend logic and automation.
+</p>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  <img src="https://komarev.com/ghpvc/?username=safinelahi&label=Profile%20Views&color=0e75b6&style=flat" alt="safinelahi" />
 </div>
 
-<br>
+<br />
 
-<!-- GitHub Stats -->
+<h2 align="center">⚡ Technical Arsenal</h2>
+
 <div align="center">
-  <h3>📊 GitHub Stats:</h3>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safinelahi&show_icons=true&locale=en&layout=compact" alt="safinelahi" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&locale=en" alt="safinelahi" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi&" alt="safinelahi" /></p>
+  
+  <p><b>Frontend Mastery</b></p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <br />
+
+  <p><b>Core Languages & Scripting</b></p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  
+  <br />
+
+  <p><b>DevOps & Tools</b></p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
 
-<br>
+<br />
+
+<h2 align="center">📊 Engineering Metrics</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" />
-  <h4>Thanks for stopping by! 😊</h4>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=safinelahi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Safin's Github Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safinelahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safinelahi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+<br />
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/safinelahi" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:safinelahi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://dev.to/safinelahi" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+   <a href="https://stackoverflow.com/users/safinelahi" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</div>
+
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </div>
